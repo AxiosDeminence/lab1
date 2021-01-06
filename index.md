@@ -29,12 +29,12 @@ git push origin
 git push --set-upstream origin add-read-me
 ```
 
-Well, I go to [UCSD]("https://www./ucsd.edu/") so why not have a link to there.
+Well, I go to [UCSD]("https://www.ucsd.edu/") so why not have a link to there.
 
 # ez-section-link
 
 I guess this is the link to the [above section](#ez-section-link).
-I guess this is the link to the [sub<sup>2</sup>-heading](#i-guess-this-is-a-subsup2sup-heading)
+I guess this is the link to [one of the headings at the top](#this-is-a-not-sub-heading).
 
 This is a relative link to a picture of a cat. [Relative link](images/catto.jpg)
 
@@ -47,7 +47,7 @@ This *is* the picture of the cat.
 1. Ordered item list 1
 2. Ordered item list 2
 
-1. Nested ordered
+3. Nested ordered
    - Nested ordered-unordered
      1. Bottom bun of the unordered-ordered sandwich
 
@@ -63,7 +63,7 @@ I don't think I am able to do the external resources.
 
 I do not have any GitHub apps installed.
 
-Let's get this :bread:
+Let's get this :bread: what about :baguette_bread:
 
 There's paragraphs everywhere on this page.
 
