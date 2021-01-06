@@ -29,7 +29,7 @@ git push origin
 git push --set-upstream origin add-read-me
 ```
 
-Well, I go to [UCSD]("https://www.ucsd.edu/") so why not have a link to there.
+Well, I go to [UCSD](https://www.ucsd.edu/) so why not have a link to there.
 
 # ez-section-link
 
